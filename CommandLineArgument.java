@@ -8,3 +8,6 @@ public class CommandLineArgument {
         System.out.println("Sum is "+s);
     }
 }
+// to run this file this method is for file having packages
+//  javac -d . CommandLineArgument.java
+//  java JavaBasics.CommandLineArgument 
